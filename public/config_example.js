@@ -31,7 +31,7 @@ config.DS_IDP='https://account-d.docusign.com';
 config.DS_API_CORS_PROXIES= {
     'https://na2.docusign.net' : 'https://xxxproxy.example.com',
     'https://na3.docusign.net' : 'https://xxxproxy.example.com',
-    'https://demo.docusign.net': 'https://xxxproxy.example.com',
+    'https://demo.docusign.net': 'https://demo.docusign.net',
 }
 
 // redirect authentication? 
